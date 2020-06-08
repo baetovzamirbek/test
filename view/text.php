@@ -2,4 +2,6 @@
 
 echo 'gittest';
 
-test 'zamir'
+test ('zamir');
+
+preg_filter(test);
